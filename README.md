@@ -1,0 +1,2 @@
+# GOLSimTutorial
+## My progression through the tutorial series by ByteSmyth: [High Quality Java Code](https://www.youtube.com/watch?v=O4XKEL3jces&list=PLCKf4WHHB2LWxL51HTNBz2OcbpswDnXy6). In order to learn better programming practices and to learn javafx.
